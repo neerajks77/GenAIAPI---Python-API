@@ -1,0 +1,6 @@
+azure-functions
+openai
+requests
+flask
+python-dotenv
+flask-restful
